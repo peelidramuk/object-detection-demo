@@ -1,0 +1,14 @@
+# CRYPTO_APIS.md
+
+A curated list of 10 APIs relevant to encrypted messaging.
+
+1. **Twilio API** – Provides programmable SMS and encrypted messaging capabilities.
+2. **Signal Protocol API** – Enables end-to-end encryption used by WhatsApp and Signal.
+3. **Matrix API** – Open network for secure, decentralized communication.
+4. **Telegram Bot API** – Allows automated, secure message handling on Telegram.
+5. **Wickr API** – Offers encrypted messaging, file transfer, and collaboration tools.
+6. **Session API** – Blockchain-based messaging system prioritizing user anonymity and encryption.
+7. **Threema Gateway API** – Enables encrypted message transmission through the Threema network.
+8. **Keybase API** – Supports encrypted chat and secure file sharing with PGP verification.
+9. **Wire API** – Facilitates secure team collaboration with E2E encryption.
+10. **Element API** – Exposes Matrix features through the secure Element client platform.
